@@ -1,7 +1,7 @@
 # Hi, I'm Nestony! 👋 
 
 ### 🚀 Software Engineer | AI Enthusiast | System Architect
-I am a final-year **Bachelor of Information Technology (BIT)** student at **Cavendish University**, specializing in building intelligent, scalable digital solutions. My focus is on bridging institutional gaps through **Full-Stack Development** and **Predictive Analytics**.
+I am a final-year student **Bachelor of Science In Computing** student at **Cavendish University**, specializing in building intelligent, scalable digital solutions. My focus is on bridging institutional gaps through **Full-Stack Development** and **Predictive Analytics**.
 
 ---
 

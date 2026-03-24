@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Nestony! 👋 
 
-<!--
-**BNesttech2000/BNesttech2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer | AI Enthusiast | System Architect
+I am a final-year **Bachelor of Information Technology (BIT)** student at **Cavendish University**, specializing in building intelligent, scalable digital solutions. My focus is on bridging institutional gaps through **Full-Stack Development** and **Predictive Analytics**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind |
+| **Backend** | Node.js (v22), Express, PHP |
+| **Database** | MongoDB Atlas, MySQL, PostgreSQL |
+| **Intelligence** | Python, Predictive Modeling, Machine Learning |
+| **Tools** | Git/GitHub, UML Modeling, System Architecture |
+
+---
+
+### 📂 Current Projects & Research
+- **Student Performance Analytics:** An AI-powered system using Python and the MERN stack to identify academic trends early.
+- **CyberSentinel:** A security and compliance management system focused on digital integrity.
+- **Virtual IT Hub:** A centralized platform for academic collaboration and resource management.
+
+---
+
+### 🎓 Professional Goals
+- **Graduating October 2026** with a focus on Software Leadership.
+- Passionate about the **Zambian ICT Innovation ecosystem** (ZICTA).
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** [Insert your LinkedIn Link here]
+- **Location:** Lusaka, Zambia 🇿🇲
+
+---
+*“It’s one thing to store data; it’s another to make that data talk.”*

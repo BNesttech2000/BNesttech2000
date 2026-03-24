@@ -31,7 +31,7 @@ I am a final-year **Bachelor of Information Technology (BIT)** student at **Cave
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [Insert your LinkedIn Link here]
+- **LinkedIn:** [linkedin.com/in/nestony-biamungu](https://www.linkedin.com/in/nestony-biamungu)
 - **Location:** Lusaka, Zambia 🇿🇲
 
 ---

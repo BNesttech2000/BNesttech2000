@@ -1,38 +1,74 @@
-# Hi, I'm Nestony! 👋 
+# Hi, I'm Nestony Biamungu! 👋
 
-### 🚀 Software Engineer | AI Enthusiast | System Architect
-I am a final-year **Bachelor of Science In Computing** student at **Cavendish University**, specializing in building intelligent, scalable digital solutions. My focus is on bridging institutional gaps through **Full-Stack Development** and **Predictive Analytics**.
+### Software Developer | AI/ML | Full-Stack Development
+
+I am a **Computer Science graduate from Cavendish University Zambia**, with a strong interest in building intelligent, scalable and impactful digital solutions.
+
+My work sits at the intersection of **software engineering, artificial intelligence and data-driven innovation**. I enjoy transforming ideas into practical technology solutions, developing full-stack applications and exploring how machine learning can address real-world challenges.
+
+I am particularly passionate about leveraging technology to create opportunities, improve access to information and contribute to Africa's growing digital innovation ecosystem.
 
 ---
 
-### 🛠 My Tech Stack
+### 🛠️ Technology Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind |
-| **Backend** | Node.js (v22), Express, PHP |
-| **Database** | MongoDB Atlas, MySQL, PostgreSQL |
-| **Intelligence** | Python, Predictive Modeling, Machine Learning |
-| **Tools** | Git/GitHub, UML Modeling, System Architecture |
+| **Frontend Development** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
+| **Backend Development** | Node.js, Express.js, PHP, Python, FastAPI |
+| **Databases** | MySQL, MongoDB, PostgreSQL, Supabase |
+| **AI & Machine Learning** | Python, Scikit-learn, Predictive Analytics, Machine Learning |
+| **Tools & Platforms** | Git, GitHub, VS Code, Docker (Basics), UML |
+| **Data & Analytics** | Power BI, Tableau, Microsoft Excel |
 
 ---
 
-### 📂 Current Projects & Research
-- **Student Performance Analytics:** An AI-powered system using Python and the MERN stack to identify academic trends early.
-- **CyberSentinel:** A security and compliance management system focused on digital integrity.
-- **Virtual IT Hub:** A centralized platform for academic collaboration and resource management.
+### 🚀 Featured Projects & Research
+
+- **Student Success Prediction System:** A machine learning-based system developed using Python and FastAPI to predict student academic performance. My undergraduate dissertation explored predictive modelling using Random Forest, achieving 85% accuracy.
+
+- **Ubumi GreenCode – Circular Economy Platform:** An AI-powered circular economy solution connecting organic waste vendors, youth collectors and biogas opportunities through intelligent waste classification and route optimisation.
+
+- **CyberSentinel:** A security and compliance management system focused on strengthening digital integrity.
+
+- **Virtual IT Hub:** A centralised platform designed to support academic collaboration and resource management.
 
 ---
 
-### 🎓 Professional Goals
-- **Graduating October 2026** with a focus on Software Leadership.
-- Passionate about the **Zambian ICT Innovation ecosystem** (ZICTA).
+### 🎓 Education & Professional Interests
+
+**Bachelor of Science in Computer Science**  
+Cavendish University Zambia  
+Graduated: October 2026 | *With Distinction*
+
+**Areas of Interest:**
+- Artificial Intelligence and Machine Learning
+- Full-Stack Software Engineering
+- Data Science and Predictive Analytics
+- Cloud Computing and Emerging Technologies
+- Technology for Social Impact
+- African Technology Innovation
 
 ---
 
-### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/nestony-biamungu](https://www.linkedin.com/in/nestony-biamungu)
-- **Location:** Lusaka, Zambia 🇿🇲
+### 🌍 Beyond Coding
+
+I believe technology should create opportunities beyond traditional boundaries.
+
+I am also a Co-founder and Executive Director of **Hope Beyond Borders Initiatives (HBBI)**, where we work to expand mentorship and scholarship access for displaced young people.
+
+My long-term ambition is to contribute to the development of an African technology ecosystem that uses AI and software innovation to solve meaningful societal challenges.
 
 ---
-*“It’s one thing to store data; it’s another to make that data talk.”*
+
+### 📫 Let's Connect
+
+- **LinkedIn:** [Nestony Biamungu](https://www.linkedin.com/in/biamungu-nestony/)
+- **GitHub:** [BNesttech2000](https://github.com/BNesttech2000)
+- **Portfolio:** [NestTech Portfolio](https://nesttech-portfolio-website.netlify.app)
+- **Location:** Lusaka, Zambia
+
+---
+
+*"It's one thing to store data; it's another to make that data talk."*
+

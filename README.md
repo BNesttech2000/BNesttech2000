@@ -27,7 +27,7 @@ I am particularly passionate about leveraging technology to create opportunities
 
 - **Student Success Prediction System:** A machine learning-based system developed using Python and FastAPI to predict student academic performance. My undergraduate dissertation explored predictive modelling using Random Forest, achieving 85% accuracy.
 
-- **Ubumi GreenCode – Circular Economy Platform:** An AI-powered circular economy solution connecting organic waste vendors, youth collectors and biogas opportunities through intelligent waste classification and route optimisation.
+- **Wash360 GreenCode – Circular Economy Platform:** An AI-powered circular economy solution connecting organic waste vendors, youth collectors and biogas opportunities through intelligent waste classification and route optimisation.
 
 - **CyberSentinel:** A security and compliance management system focused on strengthening digital integrity.
 
